@@ -4,3 +4,4 @@ This is new text file
 //this is third comment
 //4th comment
 //5th comment
+//last comment
