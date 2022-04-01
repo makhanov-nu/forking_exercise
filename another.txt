@@ -1,0 +1,6 @@
+This is new text file
+//this is new comment
+//this is second comment
+//this is third comment
+//4th comment
+//5th comment
