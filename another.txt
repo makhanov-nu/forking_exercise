@@ -1,3 +1,2 @@
 This is new text file
 //this is new comment
-//This is second comment
