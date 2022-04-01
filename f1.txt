@@ -1,1 +1,6 @@
 Created file 1
+Main modification on f1
+
+New line on f1
+2nd new line on f1
+3rd new line on f1
